@@ -1,0 +1,2 @@
+#!/bin/sh
+exec furneaux >> /var/log/furneaux.log
